@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzXaXn/pupE=",
+  "success": true,
+  "projectFilePath": "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/boikokobetsonojoko/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
