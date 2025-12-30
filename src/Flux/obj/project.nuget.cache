@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "DCdDY5JJqbo=",
   "success": true,
-  "projectFilePath": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj",
+  "projectFilePath": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj",
   "expectedPackageFiles": [
     "/Users/boikokobetsonojoko/.nuget/packages/fluentvalidation/12.1.1/fluentvalidation.12.1.1.nupkg.sha512",
     "/Users/boikokobetsonojoko/.nuget/packages/fluentvalidation.dependencyinjectionextensions/12.1.1/fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",

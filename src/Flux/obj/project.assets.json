@@ -860,11 +860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj",
-      "projectName": "Finty",
-      "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj",
+      "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj",
+      "projectName": "Flux",
+      "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj",
       "packagesPath": "/Users/boikokobetsonojoko/.nuget/packages/",
-      "outputPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/obj/",
+      "outputPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/boikokobetsonojoko/.nuget/NuGet/NuGet.Config"
@@ -879,14 +879,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj": {
-              "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj"
+            "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj": {
+              "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj"
             },
-            "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj"
+            "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj"
             },
-            "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj": {
-              "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj"
+            "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj": {
+              "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj"
             }
           }
         }
