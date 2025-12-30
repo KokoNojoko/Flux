@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj": {}
+    "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj": {}
   },
   "projects": {
-    "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj": {
+    "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj",
+        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj",
+        "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj",
         "packagesPath": "/Users/boikokobetsonojoko/.nuget/packages/",
-        "outputPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Application/obj/",
+        "outputPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boikokobetsonojoko/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/boikokobetsonojoko/Documents/Finty/src/Domain/Domain.csproj": {
-                "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Domain/Domain.csproj"
+              "/Users/boikokobetsonojoko/Documents/Flux/src/Domain/Domain.csproj": {
+                "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Domain/Domain.csproj"
               }
             }
           }
@@ -355,14 +355,14 @@
         }
       }
     },
-    "/Users/boikokobetsonojoko/Documents/Finty/src/Domain/Domain.csproj": {
+    "/Users/boikokobetsonojoko/Documents/Flux/src/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Finty/src/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Flux/src/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Domain/Domain.csproj",
+        "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Domain/Domain.csproj",
         "packagesPath": "/Users/boikokobetsonojoko/.nuget/packages/",
-        "outputPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Domain/obj/",
+        "outputPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boikokobetsonojoko/.nuget/NuGet/NuGet.Config"
@@ -688,14 +688,14 @@
         }
       }
     },
-    "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj": {
+    "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj",
-        "projectName": "Finty",
-        "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/Finty.csproj",
+        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj",
+        "projectName": "Flux",
+        "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/Flux.csproj",
         "packagesPath": "/Users/boikokobetsonojoko/.nuget/packages/",
-        "outputPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Finty/obj/",
+        "outputPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Flux/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boikokobetsonojoko/.nuget/NuGet/NuGet.Config"
@@ -710,14 +710,14 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj": {
-                "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Application/Application.csproj"
+              "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj": {
+                "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Application/Application.csproj"
               },
-              "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj"
+              "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj"
               },
-              "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj": {
-                "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj"
+              "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj": {
+                "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj"
               }
             }
           }
@@ -1184,14 +1184,14 @@
         }
       }
     },
-    "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj": {
+    "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/Infrastructure.csproj",
+        "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/Infrastructure.csproj",
         "packagesPath": "/Users/boikokobetsonojoko/.nuget/packages/",
-        "outputPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Infrastructure/obj/",
+        "outputPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boikokobetsonojoko/.nuget/NuGet/NuGet.Config"
@@ -1517,14 +1517,14 @@
         }
       }
     },
-    "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj": {
+    "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj",
+        "projectUniqueName": "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj",
         "projectName": "presentation",
-        "projectPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/presentation.csproj",
+        "projectPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/presentation.csproj",
         "packagesPath": "/Users/boikokobetsonojoko/.nuget/packages/",
-        "outputPath": "/Users/boikokobetsonojoko/Documents/Finty/src/Presentation/obj/",
+        "outputPath": "/Users/boikokobetsonojoko/Documents/Flux/src/Presentation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/boikokobetsonojoko/.nuget/NuGet/NuGet.Config"
