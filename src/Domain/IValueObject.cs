@@ -1,7 +1,4 @@
 namespace Flux.Domain
 {
-  public interface IValueObject
-  {
-
-  }
+  public interface IValueObject { }
 }

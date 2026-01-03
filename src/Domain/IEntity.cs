@@ -1,7 +1,4 @@
 namespace Flux.Domain
 {
-  public interface IEntity
-  {
-
-  }
+  public interface IEntity { }
 }
