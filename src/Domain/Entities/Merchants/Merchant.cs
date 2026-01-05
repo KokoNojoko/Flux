@@ -1,5 +1,6 @@
 using Flux.Domain.Entities.Customers;
 using Flux.Domain.Entities.Payments;
+using SharedKernal;
 
 namespace Flux.Domain.Entities.Merchants
 {

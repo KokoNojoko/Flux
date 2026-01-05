@@ -1,6 +1,7 @@
 // Some fields should be enums
 using Flux.Domain.Entities.Payments;
 using Flux.Domain.Enums;
+using SharedKernal;
 
 namespace Flux.Domain.Entities.Transactions
 {

@@ -1,4 +1,5 @@
 using Flux.Domain.Entities.Merchants;
+using SharedKernal;
 
 namespace Flux.Domain.Entities.Customers
 {

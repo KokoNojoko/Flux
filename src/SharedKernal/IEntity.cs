@@ -1,4 +1,4 @@
-namespace Flux.Domain
+namespace SharedKernal
 {
   public interface IEntity { }
 }

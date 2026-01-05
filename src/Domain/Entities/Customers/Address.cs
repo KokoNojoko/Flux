@@ -1,3 +1,5 @@
+using SharedKernal;
+
 namespace Flux.Domain.Entities.Customers
 {
   public record Address : IValueObject

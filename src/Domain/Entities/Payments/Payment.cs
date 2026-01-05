@@ -3,6 +3,7 @@ using Flux.Domain.Entities.Customers;
 using Flux.Domain.Entities.Merchants;
 using Flux.Domain.Entities.Transactions;
 using Flux.Domain.Enums;
+using SharedKernal;
 
 
 namespace Flux.Domain.Entities.Payments
