@@ -9,7 +9,6 @@ namespace Flux.Domain.Entities.Customers
      public string Surname { get; private set; }
      public string Email { get; private set; }
      public Address Address { get; private set; }
-     public DateTime CreatedAt { get; private set; }
      public Merchant Merchant { get; private set; } 
 
      private Customer()
@@ -17,19 +16,18 @@ namespace Flux.Domain.Entities.Customers
          
      }
 
-     private Customer(Guid merchantId, string name, string surname, string email, DateTime createdAt)
+     private Customer(Guid merchantId, string name, string surname, string email)
      {
         MerchantId = merchantId;
         Name = name;
         Surname = surname;
         Email = email;
-        CreatedAt = createdAt;
      }
 
      // Instance of customer instance to create customer oustide this class
-     public static Customer Create(Guid merchantId, string name, string surname, string email, DateTime createdAt)
+     public static Customer Create(Guid merchantId, string name, string surname, string email)
      {
-       return new Customer(merchantId, name, surname, email, createdAt);
+       return new Customer(merchantId, name, surname, email);
      }
 
      public void UpdateAddress(Address address)

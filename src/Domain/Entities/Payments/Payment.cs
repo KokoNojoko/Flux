@@ -17,7 +17,6 @@ namespace Flux.Domain.Entities.Payments
     public string IdempotencyKey { get; private set; }
     public string Description { get; private set; }
     public object? Metadata { get; private set; }
-    public DateTime CreatedAt { get; private set; }
     public DateTime UpdatedAt{ get; private set; }
     public Merchant Merchant { get; private set; }
     public Customer Customer { get; private set; }
@@ -29,7 +28,7 @@ namespace Flux.Domain.Entities.Payments
     }
 
     
-    private Payment(Guid merchantId, Guid? customerId, decimal amount, string idempotencykey, string description, object? metadata, DateTime createdAt, DateTime updatedAt)
+    private Payment(Guid merchantId, Guid? customerId, decimal amount, string idempotencykey, string description, object? metadata, DateTime updatedAt)
     {
        MerchantId = merchantId;
        CustomerId = customerId;
@@ -37,7 +36,6 @@ namespace Flux.Domain.Entities.Payments
        IdempotencyKey = idempotencykey;
        Description = description;
        Metadata = metadata;
-       CreatedAt = createdAt;
        UpdatedAt = updatedAt;
     }
   }
