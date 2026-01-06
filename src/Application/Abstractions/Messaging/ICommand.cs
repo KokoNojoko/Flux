@@ -1,6 +1,4 @@
 // Abstraction of commands
-using MediatR;
-
 namespace Flux.Application.Abstraction.Messaging
 {
   public interface ICommand : IBaseCommand
