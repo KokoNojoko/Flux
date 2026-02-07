@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Flux.Infrastructure.Data
 {
-    public partial class FluxDbContext : DbContext, IUnitOfWork
+    public partial class FluxDbContext : DbContext 
     {
       public FluxDbContext(DbContextOptions<FluxDbContext> options) : base(options)
       {
