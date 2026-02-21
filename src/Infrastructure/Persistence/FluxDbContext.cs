@@ -31,9 +31,7 @@ namespace Flux.Infrastructure.Persistence
         }
 
         // This method is called to save changes to the database asynchronously
-        public override async Task<int> SaveChangesAsync(
-            CancellationToken cancellationToken = default
-        )
+        public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken)
         {
             // Here you can add logic before saving changes, like setting audit fields
             return await base.SaveChangesAsync(cancellationToken);
